@@ -50,11 +50,11 @@ The dataset consists of 13 features and contains a total of 54,808 samples.
 5. Gradient Boosting Classifier
 
 ## Results
-Logistic Regression | 0.62 
-Linear SVC | 0.71 
-K-Nearest Neighbors | 0.86 
-Random Forest | 0.99 
-Gradient Boosting Classifier | 0.83 
+1. Logistic Regression | 0.62 
+2. Linear SVC | 0.71 
+3. K-Nearest Neighbors | 0.86 
+4. Random Forest | 0.99 
+5. Gradient Boosting Classifier | 0.83 
 
 ## Conclusion
 The Gradient Boosting Classifier was tuned using RandomSearch CV to attain an accuracy of 97%. The features 'awards_won?' and 'department_Sales&Marketing' were found to have the most feature importance.
